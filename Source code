@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void main()
+{
+    int i,n,B[5],A[5]={5,10,6,0,4};
+
+    for (n=0;n<5;n++){
+    printf("%d ",A[n]);}
+    printf("\n isi arry B adalah \n");
+    for (i=0;i<5;i++){
+    printf("%d ",A[i]);}
+
+
+
+    return 0;
